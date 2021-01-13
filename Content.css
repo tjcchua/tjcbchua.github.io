@@ -1,0 +1,69 @@
+body{
+				font-family: 'Playfair Display', serif;
+				background-color: #E3DCD2;
+                width: 100%;
+                margin: 0;
+                padding: 0;
+                overflow-x: hidden;
+                }
+					
+				#icon{
+					height: auto; 
+					width: 80px;
+				}
+				
+				#newscontent{
+					height: 100%;
+                    font-family: 'Playfair Display', serif;
+				}	
+			
+				#newsheadline{
+					width: 1200px;
+					float: left;
+				}
+				
+			     h2 {
+                     color:brown; 
+                     text-align: center ;
+                }
+            
+                .navbar-brand{
+                    font-family:'Playfair Display', serif;
+                    font-size: 30pt;
+                    }
+
+                .navbar-nav{
+                    color: white;
+                    font-family:'Playfair Display', serif;
+                    }
+
+                .bg-color{
+                    background-color: #CC8865;
+                    }
+
+                .nav-link{
+                    text-align: center;
+                    }
+
+                content{
+                    display: block;
+                    text-align: center;
+                    max-width: 100%;
+                    height: auto;
+                    text-align: center;
+                }    
+                
+				#satiricalessay{
+					width: 100%;
+					margin-top: 20px;
+                    color: saddlebrown;
+				}
+				
+			
+				#footer{
+					width:100%;
+					text-align: center;
+                    font-family: 'Playfair Display', serif;
+				}
+
+				
